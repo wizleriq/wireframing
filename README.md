@@ -40,5 +40,25 @@ Functional components indicate how users interact with the interface. This inclu
 
 **Example:** A wireframe for a sign-up page may include input fields for name and email, a password field, and a submit button, showing the intended flow of the registration process.
 
+## Types of Wireframes
+
+Wireframes can vary in their level of detail and fidelity. The two primary types are:
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic sketches or diagrams that focus on structure and layout rather than style or functionality. They often use simple shapes and placeholder text.
+
+- **Used When:** Early in the design process for brainstorming, rapid ideation, and early feedback.
+- **Tools:** Pen and paper, Balsamiq, whiteboards.
+- **Example:** A hand-drawn sketch showing where the header, navigation, content blocks, and footer will go.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and closely resemble the final product. They often include accurate spacing, placeholder content, and sometimes basic interactions.
+
+- **Used When:** Later in the design process to communicate detailed ideas to developers and stakeholders.
+- **Tools:** Figma, Adobe XD, Sketch.
+- **Example:** A digital wireframe showing specific font styles, button positions, and real content layout.
+
 
 
